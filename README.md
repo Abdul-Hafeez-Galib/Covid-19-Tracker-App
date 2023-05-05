@@ -11,3 +11,5 @@ This app uses data from the [COVID tracking project](https://twitter.com/covid19
 - Nice Spinner: https://github.com/arcadefire/nice-spinner
 
 ## Video Walkthrough:
+
+![Covid-19 Tracker App](https://user-images.githubusercontent.com/77202232/236455481-5f85dcb4-965d-45a8-a82b-1a44f631e67a.gif)
